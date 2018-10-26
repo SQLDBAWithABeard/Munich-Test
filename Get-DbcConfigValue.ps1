@@ -1,6 +1,6 @@
 ﻿<#
 .SYNOPSIS
-    Retrieves raw configuration values by name.
+    Retrieves raw configuration values by name. and some more stuff
 
 .DESCRIPTION
     Retrieves raw configuration values by name.
